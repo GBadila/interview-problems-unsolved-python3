@@ -1,5 +1,5 @@
-import service
-from status import STATUS
+from src.problem1 import service
+from src.problem1.status import STATUS
 
 
 def run_examples():

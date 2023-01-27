@@ -1,4 +1,4 @@
-from status import STATUS
+from src.problem1.status import STATUS
 
 CACHE = {}
 
